@@ -16,8 +16,6 @@ Pour utiliser ce projet vous devez :
 	* clone [lien copier]
 	* Enter
 
-Maintenant vous avez ce dossier sur votre ordi, pour tester vos solutions il vous suffit de trouver votre question, d'écrire la solution dans sol[numero_de_la_question].py ou sol.py, d'enregistrer et enfin de lancer dans le Terminal 'python test[numero_de_la_question].py' ou 'python3 test[numero_de_la_question].py'.
-
-Attention: lancez 'python test.py' dans le dossier de la question.
+Maintenant vous avez ce dossier sur votre ordi, pour tester vos solutions il vous suffit de trouver votre question, d'écrire la solution dans sol[numero_de_la_question].py, d'enregistrer et enfin de lancer dans le Terminal 'python test[numero_de_la_question].py' ou 'python3 test[numero_de_la_question].py'.
 
 je vous conseille de voir comment utilisez 'git' et 'github' plus tard.
